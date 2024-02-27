@@ -1,7 +1,6 @@
 <div align="center">
   
-  <h2 align="center">TECHNOHACKS
-EDUTECH Internship Project Task - 1</h2>
+  <h2 align="center"> stopwatch web application - 1</h2>
 
 Create a countdown timer that counts down
 from a set time to zero, with options to stop,
